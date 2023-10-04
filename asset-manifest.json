@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/debit-card/static/css/main.08347cf6.css",
+    "main.js": "/debit-card/static/js/main.4036c981.js",
+    "static/js/787.4b846e2a.chunk.js": "/debit-card/static/js/787.4b846e2a.chunk.js",
+    "index.html": "/debit-card/index.html",
+    "main.08347cf6.css.map": "/debit-card/static/css/main.08347cf6.css.map",
+    "main.4036c981.js.map": "/debit-card/static/js/main.4036c981.js.map",
+    "787.4b846e2a.chunk.js.map": "/debit-card/static/js/787.4b846e2a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.08347cf6.css",
+    "static/js/main.4036c981.js"
+  ]
+}
